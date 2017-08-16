@@ -16,6 +16,6 @@
     "docker",
     "dockerfile"
   ],
-  "author": "miiro@getintodevops.com",
+  "author": "nikhilcharantej@gmail.com",
   "license": "ISC"
 }
