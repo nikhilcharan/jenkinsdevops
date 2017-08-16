@@ -19,3 +19,4 @@
   "author": "nikhilcharantej@gmail.com",
   "license": "ISC"
 }
+contact github API training shop blog about
